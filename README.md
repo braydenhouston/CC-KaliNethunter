@@ -1,2 +1,2 @@
-# CC-KaliNethunter
-CypherCon Kali Nethunter Talk
+# KaliNethunter
+Kali Nethunter Talk

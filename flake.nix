@@ -30,7 +30,7 @@
           shellHook = ''
             export DIRENV_WARN_TIMEOUT=TRUE
             export PORT=8081
-            echo "Marp CLI development environment loaded"
+            echo "Marp CLI development environment loaded and running on port $PORT"
             marp -w -s ./
           '';
         };
